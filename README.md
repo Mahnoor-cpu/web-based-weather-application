@@ -10,7 +10,8 @@ A simple web-based weather application that allows users to search for current w
 
 ## Screenshots
 
-![Weather App Screenshot](screenshot.png)
+<img width="596" height="731" alt="app" src="https://github.com/user-attachments/assets/789300fb-5deb-40eb-b826-4d264a2e86dd" />
+
 
 ## Technologies Used
 
